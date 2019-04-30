@@ -1,0 +1,336 @@
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Assembly-CSharp.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\mscorlib.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Core.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Xml.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Xml.Linq.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Locator.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UI.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityScript.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityScript.Lang.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Cecil.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.DataContract.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\ExCSS.Unity.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.IvyParser.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.CecilTools.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UI.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.dll
+C:\GameDev\Local\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.pdb
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Assembly-CSharp.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\mscorlib.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Core.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Runtime.Serialization.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Xml.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\System.Xml.Linq.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Locator.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.TextMeshPro.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AIModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ARModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AudioModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClothModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CoreModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GridModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.InputModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TLSModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UI.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UNETModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VideoModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VRModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.WindModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.XRModule.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityScript.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityScript.Lang.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Cecil.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.DataContract.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\ExCSS.Unity.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Parser.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Compiler.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.IvyParser.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Boo.Lang.Useful.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\Unity.CecilTools.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEditor.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AIModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ARModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.AudioModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClothModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CoreModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GridModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.InputModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TLSModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UNETModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VRModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.VideoModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.WindModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.XRModule.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.UI.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.dll
+D:\College\Year 4 - Fall 2018\IGME580 - Production Studio\Project-SplatterBlade\obj\Debug\Assembly-CSharp.pdb

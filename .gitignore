@@ -1,0 +1,7 @@
+[Ll]ibrary/
+*.dll
+*.mdb
+*.meta
+
+# Visual Studio cache directory
+.vs/
